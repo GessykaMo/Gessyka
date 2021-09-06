@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(107,175,146);
+}
+
+header h1 {
+    background-color: rgb(53,136,115);
+    font-family: 'Kaisei HarunoUmi', serif;
+    font-size: 250%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.media-picture{
+    background-image: url('Goiânia.jfif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 130%;
+    color: white;
+    text-align: center;
+}
+.video iframe{
+    height: 720px;
+    width: 1280px;
+    position: relative;
+}
+figcaption {
+    font: 150% sans-serif;
+    text-align: left;
+}
+li{
+    font: 110% sans-serif;
+    text-align: left; 
+}
+
